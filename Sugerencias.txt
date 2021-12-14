@@ -1,0 +1,4 @@
+ 12345678H     23/03/2018       Piscina          Urgente        Puerta_entrada_rota
+ 33333333J     02/01/2018       Alumbrado        Muy_Urgente    Bombilla_entrada_funciona
+ 82342346G     05/07/2017       Ascensor         Urgente        Se_para_de_vez_en_cuando
+ 55055555O     04/02/2000       Puerta_Entrada   Urgente        Cerradura 

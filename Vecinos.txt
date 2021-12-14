@@ -1,0 +1,7 @@
+ p       12345678H     Hernan        Cortes_Monroy     1B          645255     01/01/2001               300
+ m       22222222I     Luis          Garcia_Lopez      2A          646865     02/02/2016               150    5       true
+ i       33333333J     Carlos        Sanchez_Ruiz      3C          613546     03/03/2018              9000            false     
+ p       05654675D     Alonso        Diaz_Sobrino      3D          465651     18/04/2015               600    
+ m       82342346G     Desiderio     Almansa_Porrero   5H          111113     01/03/2018               200    3       true
+ i       12345544L     JoseCarlos    Olmo_Alonso       6C          796876     01/01/2018              2600            false     35   
+ i       55055555O     Paco          Palotes_Palo      7C          546546     01/01/2017              3750            true
